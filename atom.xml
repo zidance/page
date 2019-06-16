@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://page/</id>
     <title>Gridea</title>
-    <updated>2019-06-16T07:49:33.582Z</updated>
+    <updated>2019-06-16T07:50:39.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://page/"/>
     <link rel="self" href="https://page//atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://page//images/avatar.png</logo>
     <icon>https://page//favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[hello world!!]]></title>
+        <id>https://page//post/hello-world</id>
+        <link href="https://page//post/hello-world">
+        </link>
+        <updated>2019-06-16T07:49:41.000Z</updated>
+        <content type="html"><![CDATA[<p>hello world!!</p>
+]]></content>
+    </entry>
 </feed>
