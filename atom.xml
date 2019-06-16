@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zidance.github.io/page</id>
     <title>Zidance</title>
-    <updated>2019-06-16T08:01:11.835Z</updated>
+    <updated>2019-06-16T08:08:14.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zidance.github.io/page"/>
     <link rel="self" href="https://zidance.github.io/page/atom.xml"/>
@@ -11,23 +11,14 @@
     <icon>https://zidance.github.io/page/favicon.ico</icon>
     <rights>All rights reserved 2019, Zidance</rights>
     <entry>
-        <title type="html"><![CDATA[hello world 2222!]]></title>
-        <id>https://zidance.github.io/page/post/hello-world-2222</id>
-        <link href="https://zidance.github.io/page/post/hello-world-2222">
+        <title type="html"><![CDATA[加入Gridea怀抱]]></title>
+        <id>https://zidance.github.io/page/post/jia-ru-gridea-huai-bao</id>
+        <link href="https://zidance.github.io/page/post/jia-ru-gridea-huai-bao">
         </link>
-        <updated>2019-06-16T07:54:35.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="hello-world">hello world</h1>
-<h2 id="hello-world-2">hello world</h2>
-<h3 id="hello-world-3">hello world</h3>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hello world!!]]></title>
-        <id>https://zidance.github.io/page/post/hello-world</id>
-        <link href="https://zidance.github.io/page/post/hello-world">
-        </link>
-        <updated>2019-06-16T07:49:41.000Z</updated>
-        <content type="html"><![CDATA[<p>hello world!!</p>
+        <updated>2019-06-16T08:03:55.000Z</updated>
+        <content type="html"><![CDATA[<p>一个静态博客写作客户端。记录生活、心情、知识、笔记、创意！
+上手简单
+传送门：https://gridea.dev/</p>
 ]]></content>
     </entry>
 </feed>
